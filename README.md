@@ -1,7 +1,9 @@
 # Olá, eu sou Bruno Justi 👋
 
 🎓 Estudante de Engenharia de Software na UNAERP  
-💻 Desenvolvedor Full Stack Jr. na ConstruConnect  
+💻 Full Stack Developer @ ConstruConnect  
+
+☕ Java | Spring Boot | Angular | PostgreSQL | REST APIs
 
 Atuo no desenvolvimento e manutenção de aplicações web, com foco em backend Java, APIs REST e interfaces modernas.
 
@@ -37,3 +39,15 @@ Atuo no desenvolvimento e manutenção de aplicações web, com foco em backend 
 
 LinkedIn: linkedin.com/in/brunojustidev  
 GitHub: github.com/BrunoJusti
+
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoJusti&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoJusti&layout=compact&theme=github_dark)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
