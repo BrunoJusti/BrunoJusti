@@ -1,4 +1,4 @@
-# Olá, eu sou Bruno Justi 👋
+# Olá, meu nome é Bruno Justi 👋
 
 🎓 Estudante de Engenharia de Software na UNAERP  
 💻 Full Stack Developer @ ConstruConnect  
