@@ -3,7 +3,10 @@
 🎓 Estudante de Engenharia de Software na UNAERP  
 💻 Full Stack Developer @ ConstruConnect  
 
-☕ Java | Spring Boot | Angular | PostgreSQL | REST APIs
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Atuo no desenvolvimento e manutenção de aplicações web, com foco em backend Java, APIs REST e interfaces modernas.
 
@@ -43,11 +46,6 @@ GitHub: github.com/BrunoJusti
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoJusti&show_icons=true&theme=github_dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunojusti&show_icons=true&theme=tokyonight"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoJusti&layout=compact&theme=github_dark)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojusti&layout=compact&theme=tokyonight"/>
