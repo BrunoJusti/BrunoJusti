@@ -34,6 +34,8 @@ Atuo no desenvolvimento e manutenção de aplicações web, com foco em backend 
 
 ## 📚 Em evolução
 
+- OPA (Open Policy Agent)
+- AOP (Aspect Oriented Programming) 
 - Arquitetura de software
 - Design Patterns
 - Boas práticas de código
