@@ -1,7 +1,7 @@
 # Olá, meu nome é Bruno Justi 👋
 
 🎓 Estudante de Engenharia de Software na UNAERP  
-💻 Full Stack Developer @ ConstruConnect  
+💻 Full Stack Developer
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
