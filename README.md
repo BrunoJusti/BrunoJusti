@@ -39,11 +39,6 @@ I'm a Software Engineering student focused on building web applications and cont
 * Clean Code
 * Advanced Java & Spring Boot
 
-## 📊 GitHub Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME\&layout=compact\&hide_border=true)
-
----
 
 📫 **Connect with me**
 
