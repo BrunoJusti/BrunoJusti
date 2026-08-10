@@ -42,4 +42,4 @@ I'm a Software Engineering student focused on building web applications and cont
 
 📫 **Connect with me**
 
-[LinkedIn](SEU_LINKEDIN) • [GitHub](https://github.com/SEU_USERNAME)
+[LinkedIn](www.linkedin.com/in/brunojustidev) • [GitHub](https://github.com/BrunoJusti)
