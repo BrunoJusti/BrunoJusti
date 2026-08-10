@@ -40,6 +40,7 @@ I'm a Software Engineering student focused on building web applications and cont
 * Advanced Java & Spring Boot
 
 
-📫 **Connect with me**
+## 📫 Connect with me
 
-[LinkedIn](www.linkedin.com/in/brunojustidev) • [GitHub](https://github.com/BrunoJusti)
+[LinkedIn](https://www.linkedin.com/in/brunojustidev) • [GitHub](https://github.com/SEU_USERNAME)
+
