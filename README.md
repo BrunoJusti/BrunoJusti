@@ -26,5 +26,5 @@ I'm a Software Engineering student focused on building web applications and cont
 
 ## 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/brunojustidev) • [GitHub](https://github.com/SEU_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/brunojustidev) • [Portfólio](https://portfolio-bruno-oakjni7xm-justibruno10-7046.vercel.app/)
 
