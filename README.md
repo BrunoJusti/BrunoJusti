@@ -1,30 +1,119 @@
 # Bruno Justi
 
-**Software Engineering Student | Full Stack Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Building+solutions+through+code." alt="Typing SVG" />
+</p>
 
-I'm a Software Engineering student focused on building web applications and continuously improving my development skills.
+<p align="center">
+  <a href="https://github.com/BrunoJusti">
+    <img src="https://img.shields.io/badge/GitHub-BrunoJusti-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-2196F3?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-2EA44F?style=for-the-badge" alt="Status"/>
+</p>
 
-## 🛠️ Technologies
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+## 👨‍💻 About Me
 
-## 🎯 Currently working on
+I'm a **Software Engineering student and Full Stack Developer**, passionate about building web applications and developing efficient software solutions.
 
-* Full Stack web applications
-* REST APIs with Spring Boot
-* Angular applications
-* Database integration with PostgreSQL
+Currently working with **Java, Spring Boot, Angular, and PostgreSQL**, focusing on backend development, frontend integration, RESTful APIs, and software architecture.
 
+I enjoy solving complex problems, exploring new technologies, and continuously improving my development skills.
 
-## 📫 Connect with me
+- 💼 Full Stack Developer at ConstruConnect.
+- 🎓 Software Engineering student.
+- 🚀 Building real-world applications and personal projects.
+- 📚 Constantly learning and improving my technical skills.
 
-[LinkedIn](https://www.linkedin.com/in/brunojustidev) • [Portfólio](https://portfolio-bruno-oakjni7xm-justibruno10-7046.vercel.app/)
+---
 
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,react,html,css" />
+</p>
+
+### Database & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### Pulse API
+An API monitoring platform focused on tracking endpoint availability and monitoring application health.
+
+- Backend development with Java and Spring Boot.
+- RESTful API architecture.
+- PostgreSQL database integration.
+- Monitoring and failure tracking.
+- Webhook-based alerting.
+
+🔗 **Repository:** [Pulse API](https://github.com/BrunoJusti)
+
+### Portfolio
+My personal portfolio, showcasing my development journey, technical skills, and projects.
+
+- Angular
+- TypeScript
+- SCSS
+- Responsive design
+
+🔗 **Repository:** [Portfolio](https://github.com/BrunoJusti/Portfolio)
+
+---
+
+## 🎯 Currently Focused On
+
+- Developing full-stack web applications.
+- Building RESTful APIs with Spring Boot.
+- Creating responsive interfaces with Angular.
+- Improving software architecture and code quality.
+- Database modeling and integration with PostgreSQL.
+- Application performance and scalability.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrunoJusti&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoJusti&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BrunoJusti&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/BrunoJusti" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Great software is built one problem at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrunoJusti&color=2196F3&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
