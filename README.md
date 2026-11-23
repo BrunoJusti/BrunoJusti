@@ -69,7 +69,7 @@ My personal portfolio, showcasing my development journey, technical skills, and 
 - SCSS
 - Responsive design
 
-🔗 **Repository:** [Portfolio](https://github.com/BrunoJusti/Portfolio)
+🔗 **Repository:** [Portfolio](https://portfolio-bruno-oakjni7xm-justibruno10-7046.vercel.app/)
 
 ---
 
@@ -100,7 +100,7 @@ My personal portfolio, showcasing my development journey, technical skills, and 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/brunojustidev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/BrunoJusti" target="_blank">
